@@ -1,5 +1,5 @@
 The variables of the tidy data set:
-======================================
+=====================================
 
 The variable names of the tidy data set are listed below. They are self-describing, and human readable:
 
@@ -75,7 +75,7 @@ The variable names of the tidy data set are listed below. They are self-describi
 
 
 Describing the raw data:
-=============================
+==========================
 
 The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained:
 
@@ -84,7 +84,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 This data is based on the work of   Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
 
 The work performed to clean up the raw data and to obtain a tidy data set:
-======================================================
+============================================================================
 
 Step 1: I open R 3.3.2 and start at the R prompt by setting my working directory to my desktop where I create a new directory called "data" if it doesn't already exist.
 ```
